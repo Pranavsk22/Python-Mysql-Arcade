@@ -1,0 +1,6 @@
+TO WHOMEVER CONCERNED:
+This program is written by S K Pranav and Varun Chandar
+
+The image file directories can be altered to the user's file path.
+
+***PLEASE CHANGE THE VARIABLES TO AVOID PLAGIARISM CONFLICTS***
